@@ -24,4 +24,4 @@ jobs:
           pip install -r requirements.txt
 
       - name: Run crawler
-        run: python crawler.py
+        run: python Ministerius.py
